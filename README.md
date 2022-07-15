@@ -8,7 +8,7 @@
 <br>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase.js-FFCA28?style=flat&logo=Firebase&logoColor=white&fontColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black">
 </p>
 <br>
 
