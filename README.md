@@ -14,11 +14,11 @@
 </p>
 <br>
 
-## GitHub stats
+<!-- ## GitHub stats
 ![Seoyamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoyamin&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyamin&layout=compact&theme=default)
 <br>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyamin&count_bg=%237DA1C2&title_bg=%23908E8E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyamin&count_bg=%237DA1C2&title_bg=%23908E8E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) -->
 
 
 <!--
