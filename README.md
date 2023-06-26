@@ -38,9 +38,9 @@
 <br>
 
 # 🌱 Experiences
-|Date|Activity|Stack|Role|Detail|Repo|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|2022.09-2023.06 |캡스톤디자인과창업프로젝트<br>(디버깅)|Flask<br>Kotlin<br>Spring Boot|Full-Stack Developer|장려상 수상||
-|2022.12-2023.04 |밥약|TypeScript<br>Spring Boot|Backend Developer<br>DevOps Engineer|-||
-|2022.05-2023.02 |배리어프리 앱개발 콘테스트 <br>(피싱백신)|React Native<br>Node.js|Full-Stack Developer|우수상 수상||
-|2021.08- |서베이지|Vue.js<br>Kotlin<br>Firebase|Full-Stack Developer|2022.05 예비창업패키지 선정<br>(주관기관: 연세대학교)||
+|Date|Activity|Stack|Role|Detail|
+|:--:|:--:|:--:|:--:|:--:|
+|2022.09-2023.06 |캡스톤디자인과창업프로젝트<br>(디버깅)|Flask<br>Kotlin<br>Spring Boot|Full-Stack Developer|장려상 수상|
+|2022.12-2023.04 |밥약|TypeScript<br>Spring Boot|Backend Developer<br>DevOps Engineer|-|
+|2022.05-2023.02 |배리어프리 앱개발 콘테스트 <br>(피싱백신)|React Native<br>Node.js|Full-Stack Developer|우수상 수상|
+|2021.08- |서베이지|Vue.js<br>Kotlin<br>Firebase|Full-Stack Developer|2022.05 예비창업패키지 선정<br>(주관기관: 연세대학교)|
