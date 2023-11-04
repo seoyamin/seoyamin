@@ -42,6 +42,7 @@
 |:--:|:--:|:--:|:--:|:--:|
 |2023.10- |렛츠인턴|Spring Boot|Backend Developer<br>DevOps Engineer|-|
 |2023.09-2023.12 |슈어소프트테크|Java|Backend팀 인턴|-|
+|2023.07|2023 UNIS SW 창업 해커톤<br>(백미러)|Spring Boot|Backend Developer|-|
 |2022.09-2023.06 |캡스톤디자인과창업프로젝트<br>(디버깅)|Flask<br>Kotlin<br>Spring Boot|Full-Stack Developer<br>DevOps Engineer|장려상 수상|
 |2022.12-2023.04 |밥약|TypeScript<br>Spring Boot|Backend Developer<br>DevOps Engineer|-|
 |2022.05-2023.02 |배리어프리 앱개발 콘테스트 <br>(피싱백신)|React Native<br>Node.js|Full-Stack Developer|우수상 수상|
