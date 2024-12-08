@@ -40,7 +40,8 @@
 # 🌱 Experiences
 |Date|Activity|Stack|Role|Detail|
 |:--:|:--:|:--:|:--:|:--:|
-|2023.10- |렛츠인턴|Spring Boot|Backend Developer<br>DevOps Engineer|-|
+|2024.07-2024.08 |르노코리아|-|Multimedia & Connectivity 2팀 인턴|-|
+|2023.10- |렛츠커리어|Spring Boot|Backend Developer<br>DevOps Engineer|-|
 |2023.09-2023.12 |슈어소프트테크|Java|Backend팀 인턴|-|
 |2023.07|2023 UNIS SW 창업 해커톤<br>(백미러)|Spring Boot|Backend Developer|-|
 |2022.09-2023.06 |캡스톤디자인과창업프로젝트<br>(디버깅)|Flask<br>Kotlin<br>Spring Boot|Full-Stack Developer<br>DevOps Engineer|장려상 수상|
