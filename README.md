@@ -40,7 +40,7 @@
 # Experiences
 |Date|Activity|Stack|Role|Detail|
 |:--:|:--:|:--:|:--:|:--:|
-|2024.10- |SK 쉴더스 루키즈 23기|-| 취약점 분석, 모의해킹|-|
+|2024.10- |SK 쉴더스 루키즈 23기|Spring Boot<br>AWS<br>Docker| 웹 개발, 클라우드 구축,<br>내부망 침투 모의해킹|대상 수상|
 |2024.07-2024.08 |르노코리아|-|Multimedia & Connectivity 2팀<br>인턴|-|
 |2023.10- |[렛츠커리어](https://www.letscareer.co.kr)|Spring Boot|Backend Developer<br>DevOps Engineer|-|
 |2023.09-2023.12 |슈어소프트테크|Java|Backend팀 인턴|-|
